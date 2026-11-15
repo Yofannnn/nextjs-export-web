@@ -1,0 +1,247 @@
+{
+  "Metadata": {
+    "title": "PT Java Export | Premium Agricultural & Maritime Export",
+    "description": "Direct export of seafood, highland coffee, coconut derivatives and fresh produce from Southern East Java, Indonesia."
+  },
+  "Hero": {
+    "badge": "Southern East Java Export Hub",
+    "title": "Indonesia's Premium Agricultural & Maritime Exporter",
+    "description": "Connecting world buyers directly with sustainably harvested seafood, highland coffee, coconut derivatives, and fresh produce from the fertile Southern Java corridor.",
+    "ctaExplore": "Explore Commodities",
+    "ctaQuote": "Get Instant Quotation",
+    "stats": {
+      "countries": "Countries Served",
+      "volume": "MT Shipped Annually",
+      "compliance": "Export Compliance"
+    },
+    "highlights": {
+      "coldChain": {
+        "title": "Cold-Chain Logistics Integrated",
+        "description": "Equipped with temperature-controlled reefer containers (–25°C to +15°C) from harvest origins in Sendangbiru & Prigi straight to Tanjung Perak Port, Surabaya."
+      },
+      "fairTrade": {
+        "title": "Direct Farmer & Fishermen Fair-Trade",
+        "description": "Partnering with over 85 local cooperatives across Malang, Blitar, Tulungagung, Trenggalek, Pacitan, and Banyuwangi to guarantee trace-to-source quality."
+      }
+    }
+  },
+  "TopBar": {
+    "certified": "Certified Exporter (NIB: {nib})",
+    "gateway": "Gateway: Southern East Java, Indonesia"
+  },
+  "Header": {
+    "navLabel": "Main navigation",
+    "nav": {
+      "about": "About Us",
+      "origins": "Origins & Supply Map",
+      "products": "Commodities",
+      "calculator": "Container Planner",
+      "certifications": "Certifications"
+    },
+    "rfq": "Request Quotation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "Products": {
+    "eyebrow": "Export Catalog",
+    "title": "Featured Commodities",
+    "filterLabel": "Filter by category",
+    "filterAll": "All Products",
+    "viewSpecs": "View Technical Specs",
+    "comingSoon": "Coming soon",
+    "empty": "No products in this category yet.",
+    "labels": {
+      "origin": "Origin",
+      "moq": "MOQ",
+      "shipping": "Shipping",
+      "availability": "Availability",
+      "certifications": "Certifications",
+      "documents": "Export documents",
+      "specs": "Technical specifications",
+      "none": "—"
+    },
+    "dialog": {
+      "requestRfq": "Request RFQ for Product",
+      "close": "Close",
+      "comingSoonNote": "Not yet open for orders. Contact us to be notified."
+    },
+    "storage": {
+      "frozen": "Frozen",
+      "chilled": "Chilled",
+      "ambient": "Ambient"
+    },
+    "shipping": {
+      "dry-20ft": "Dry 20ft",
+      "dry-40ft": "Dry 40ft",
+      "reefer-20ft": "Reefer 20ft",
+      "reefer-40ft": "Reefer 40ft",
+      "flexibag": "Flexibag",
+      "air-freight": "Air freight"
+    },
+    "availability": {
+      "yearRound": "Year-round",
+      "yearRoundPeak": "Year-round, peak {months}",
+      "seasonal": "Seasonal: {months}"
+    }
+  },
+  "Rfq": {
+    "eyebrow": "Official B2B Channel",
+    "title": "Request for Quotation (RFQ)",
+    "subtitle": "Fill in your specs below. Our export sales manager will reply with FOB/CIF pricing within {hours} hours.",
+    "optional": "optional",
+    "fields": {
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "e.g. Johnathan Smith"
+      },
+      "company": {
+        "label": "Company Name",
+        "placeholder": "e.g. Global Foods Trading Ltd"
+      },
+      "email": {
+        "label": "Corporate Email",
+        "placeholder": "buyer@company.com"
+      },
+      "phone": {
+        "label": "Phone / WhatsApp",
+        "placeholder": "+1 555 019 2834"
+      },
+      "product": {
+        "label": "Commodity",
+        "placeholder": "Select Product..."
+      },
+      "volume": {
+        "label": "Target Volume",
+        "placeholder": "e.g. 20 MT per month"
+      },
+      "incoterm": {
+        "label": "Incoterms Preferred"
+      },
+      "country": {
+        "label": "Destination Country",
+        "placeholder": "e.g. Japan"
+      },
+      "frequency": {
+        "label": "Order Type"
+      },
+      "paymentTerms": {
+        "label": "Preferred Payment Terms"
+      },
+      "message": {
+        "label": "Destination Port & Specific Requirements",
+        "placeholder": "Specify destination port (e.g., Yokohama Port, Rotterdam, Dubai) and packaging details..."
+      }
+    },
+    "options": {
+      "incoterm": {
+        "FOB": "FOB Surabaya (Tanjung Perak)",
+        "CIF": "CIF (Cost, Insurance & Freight)",
+        "CFR": "CFR (Cost & Freight)"
+      },
+      "frequency": {
+        "one-time": "One-time order",
+        "recurring": "Recurring / contract supply"
+      },
+      "payment": {
+        "tt": "T/T (bank transfer)",
+        "lc": "L/C at sight",
+        "tbd": "To be discussed"
+      }
+    },
+    "submit": "Submit Official Inquiry",
+    "sending": "Sending...",
+    "success": {
+      "title": "Inquiry Received!",
+      "body": "Thank you. Our export team will contact you within {hours} hours.",
+      "reference": "Reference: {reference}",
+      "again": "Send another inquiry"
+    },
+    "errors": {
+      "invalid": "Please check the highlighted fields and try again.",
+      "server": "We could not send your inquiry. Please try again, or contact us directly at {email}."
+    },
+    "validation": {
+      "required": "This field is required.",
+      "tooLong": "This is too long.",
+      "email": "Enter a valid email address.",
+      "phone": "Enter a valid phone number.",
+      "invalid": "Please check this field."
+    }
+  },
+  "About": {
+    "eyebrow": "About {company}",
+    "title": "Your Trusted Gateway to East Java's Southern Harvest",
+    "description": "Headquartered in East Java, Indonesia, <strong>{company}</strong> operates as an integrated export management and trading entity. We specialize in three primary sectors: <strong>Seafood & Marine Resources</strong>, <strong>Highland Plantation Produce</strong>, and <strong>Fresh Horticulture</strong>.",
+    "traceability": {
+      "title": "Full Traceability",
+      "text": "From coastal landing sites & mountain estates."
+    },
+    "quality": {
+      "title": "Strict Quality Assurance",
+      "text": "Phytosanitary & HACCP compliance guaranteed."
+    },
+    "quote": "Ensuring pristine quality from Southern Java's rich land & ocean straight to global ports.",
+    "imageAlt": "Shipping containers at a port"
+  },
+  "Origins": {
+    "eyebrow": "Geographic Sourcing Network",
+    "title": "Southern East Java Supply Corridor",
+    "subtitle": "Strategic supply centers along the Indian Ocean coastline and volcanic mountain ranges."
+  },
+  "Planner": {
+    "eyebrow": "Logistics Planning Tool",
+    "title": "Container Load Planner",
+    "description": "Planning your shipment from Surabaya Port (Tanjung Perak / Juanda Airport)? Enter your target weight to see the recommended container setup.",
+    "routeTitle": "Inland Route:",
+    "route": "Southern Origin → Tol Trans-Jawa / JLS → Tanjung Perak Port (approx. 3-5 hours transit time)",
+    "sectorLabel": "Select Commodity Sector",
+    "volumeLabel": "Estimated Volume (Metric Tonnes)",
+    "sectors": {
+      "frozen": "Frozen Seafood (Tuna / Shrimp) [-25°C]",
+      "chilled": "Fresh Fruits / Bananas [+13°C]",
+      "ambient": "Dry Beans / Coffee / Sugar [Ambient]"
+    },
+    "resultTitle": "Recommended Container",
+    "temperatureLabel": "Temperature Setting",
+    "leadLabel": "Estimated Lead Time",
+    "containers": {
+      "reefer-20ft": "20ft Reefer Container",
+      "reefer-40ft": "40ft High-Cube Reefer Container",
+      "dry-20ft": "20ft Dry Container (FCL)",
+      "dry-40ft": "40ft Dry Container (FCL)"
+    },
+    "containerLine": "{count}× {name}",
+    "temperature": {
+      "frozen": "-18°C to -25°C (Frozen Controlled)",
+      "chilled": "+13°C (Fresh Fruit Ventilation)",
+      "ambient": "Ambient / Dry Storage"
+    },
+    "lead": {
+      "frozen": "3-5 Days Port Transit + Customs Clearance",
+      "chilled": "2-4 Days Direct Delivery",
+      "ambient": "3-7 Days Packing & Port Loading"
+    },
+    "invalid": "Enter a volume between 1 and {max, number} MT.",
+    "disclaimer": "Indicative only. Actual payload depends on packaging and product density. The final configuration is confirmed in your quotation.",
+    "cta": "Request a quotation for this shipment"
+  },
+  "Certifications": {
+    "eyebrow": "International Standards",
+    "title": "Certifications & Quality Assurance",
+    "subtitle": "We strictly comply with global food safety, quarantine, and sustainable harvesting standards.",
+    "groups": {
+      "certifications": "Standards & certifications",
+      "documents": "Export documents per shipment"
+    }
+  },
+  "Footer": {
+    "description": "Integrated exporter of agricultural, plantation, and fisheries commodities from Southern East Java, Indonesia.",
+    "nib": "NIB: {nib}",
+    "kbli": "KBLI: {kbli}",
+    "commoditiesTitle": "Core Commodities",
+    "originsTitle": "Export Origins",
+    "officeTitle": "Corporate Office",
+    "copyright": "© {year} {company} ({tagline}). All rights reserved."
+  }
+}

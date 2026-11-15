@@ -1,0 +1,247 @@
+{
+  "Metadata": {
+    "title": "PT Java Export | Eksportir Komoditas Agro & Maritim Premium",
+    "description": "Ekspor langsung hasil laut, kopi dataran tinggi, olahan kelapa, dan hasil bumi segar dari Jawa Timur bagian selatan, Indonesia."
+  },
+  "Hero": {
+    "badge": "Pusat Ekspor Jawa Timur Selatan",
+    "title": "Eksportir Utama Komoditas Agro & Maritim Indonesia",
+    "description": "Menghubungkan buyer global dengan perikanan segar, kopi dataran tinggi, olahan kelapa, serta hasil bumi unggulan dari koridor subur Jawa Timur Selatan.",
+    "ctaExplore": "Jelajahi Produk",
+    "ctaQuote": "Minta Penawaran Harga",
+    "stats": {
+      "countries": "Negara Tujuan",
+      "volume": "Ton Dikirim / Tahun",
+      "compliance": "Legalitas Kepabeanan"
+    },
+    "highlights": {
+      "coldChain": {
+        "title": "Logistik Rantai Dingin Terpadu",
+        "description": "Dilengkapi kontainer reefer berpendingin (–25°C hingga +15°C) dari titik panen di Sendangbiru & Prigi langsung ke Pelabuhan Tanjung Perak, Surabaya."
+      },
+      "fairTrade": {
+        "title": "Perdagangan Adil dengan Petani & Nelayan",
+        "description": "Bermitra dengan lebih dari 85 koperasi lokal di Malang, Blitar, Tulungagung, Trenggalek, Pacitan, dan Banyuwangi untuk menjamin kualitas yang dapat ditelusuri hingga sumbernya."
+      }
+    }
+  },
+  "TopBar": {
+    "certified": "Eksportir Terdaftar (NIB: {nib})",
+    "gateway": "Gerbang Ekspor: Jawa Timur Selatan, Indonesia"
+  },
+  "Header": {
+    "navLabel": "Navigasi utama",
+    "nav": {
+      "about": "Tentang Kami",
+      "origins": "Peta Pasokan",
+      "products": "Katalog Produk",
+      "calculator": "Kalkulator Kontainer",
+      "certifications": "Sertifikasi"
+    },
+    "rfq": "Minta Penawaran",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "language": "Bahasa"
+  },
+  "Products": {
+    "eyebrow": "Katalog Ekspor",
+    "title": "Komoditas Unggulan",
+    "filterLabel": "Filter kategori",
+    "filterAll": "Semua Produk",
+    "viewSpecs": "Lihat Spesifikasi Teknis",
+    "comingSoon": "Segera hadir",
+    "empty": "Belum ada produk di kategori ini.",
+    "labels": {
+      "origin": "Asal",
+      "moq": "MOQ",
+      "shipping": "Pengiriman",
+      "availability": "Ketersediaan",
+      "certifications": "Sertifikasi",
+      "documents": "Dokumen ekspor",
+      "specs": "Spesifikasi teknis",
+      "none": "—"
+    },
+    "dialog": {
+      "requestRfq": "Minta Penawaran Produk Ini",
+      "close": "Tutup",
+      "comingSoonNote": "Belum dibuka untuk pemesanan. Hubungi kami untuk diberi kabar."
+    },
+    "storage": {
+      "frozen": "Beku",
+      "chilled": "Dingin",
+      "ambient": "Suhu ruang"
+    },
+    "shipping": {
+      "dry-20ft": "Dry 20ft",
+      "dry-40ft": "Dry 40ft",
+      "reefer-20ft": "Reefer 20ft",
+      "reefer-40ft": "Reefer 40ft",
+      "flexibag": "Flexibag",
+      "air-freight": "Kargo udara"
+    },
+    "availability": {
+      "yearRound": "Sepanjang tahun",
+      "yearRoundPeak": "Sepanjang tahun, puncak {months}",
+      "seasonal": "Musiman: {months}"
+    }
+  },
+  "Rfq": {
+    "eyebrow": "Kanal B2B Resmi",
+    "title": "Permintaan Penawaran (RFQ)",
+    "subtitle": "Isi kebutuhan Anda di bawah ini. Manajer penjualan ekspor kami akan membalas dengan harga FOB/CIF dalam {hours} jam.",
+    "optional": "opsional",
+    "fields": {
+      "fullName": {
+        "label": "Nama Lengkap",
+        "placeholder": "mis. Johnathan Smith"
+      },
+      "company": {
+        "label": "Nama Perusahaan",
+        "placeholder": "mis. Global Foods Trading Ltd"
+      },
+      "email": {
+        "label": "Email Perusahaan",
+        "placeholder": "buyer@company.com"
+      },
+      "phone": {
+        "label": "Telepon / WhatsApp",
+        "placeholder": "+1 555 019 2834"
+      },
+      "product": {
+        "label": "Komoditas",
+        "placeholder": "Pilih Produk..."
+      },
+      "volume": {
+        "label": "Target Volume",
+        "placeholder": "mis. 20 MT per bulan"
+      },
+      "incoterm": {
+        "label": "Incoterms yang Diinginkan"
+      },
+      "country": {
+        "label": "Negara Tujuan",
+        "placeholder": "mis. Jepang"
+      },
+      "frequency": {
+        "label": "Jenis Pesanan"
+      },
+      "paymentTerms": {
+        "label": "Syarat Pembayaran"
+      },
+      "message": {
+        "label": "Pelabuhan Tujuan & Kebutuhan Khusus",
+        "placeholder": "Sebutkan pelabuhan tujuan (mis. Yokohama, Rotterdam, Dubai) dan detail kemasan..."
+      }
+    },
+    "options": {
+      "incoterm": {
+        "FOB": "FOB Surabaya (Tanjung Perak)",
+        "CIF": "CIF (Biaya, Asuransi & Freight)",
+        "CFR": "CFR (Biaya & Freight)"
+      },
+      "frequency": {
+        "one-time": "Pesanan sekali",
+        "recurring": "Pasokan berulang / kontrak"
+      },
+      "payment": {
+        "tt": "T/T (transfer bank)",
+        "lc": "L/C at sight",
+        "tbd": "Dibicarakan nanti"
+      }
+    },
+    "submit": "Kirim Permintaan Resmi",
+    "sending": "Mengirim...",
+    "success": {
+      "title": "Permintaan Diterima!",
+      "body": "Terima kasih. Tim ekspor kami akan menghubungi Anda dalam {hours} jam.",
+      "reference": "Nomor referensi: {reference}",
+      "again": "Kirim permintaan lain"
+    },
+    "errors": {
+      "invalid": "Mohon periksa kolom yang ditandai lalu coba lagi.",
+      "server": "Permintaan Anda belum terkirim. Silakan coba lagi, atau hubungi kami langsung di {email}."
+    },
+    "validation": {
+      "required": "Kolom ini wajib diisi.",
+      "tooLong": "Terlalu panjang.",
+      "email": "Masukkan alamat email yang valid.",
+      "phone": "Masukkan nomor telepon yang valid.",
+      "invalid": "Mohon periksa kolom ini."
+    }
+  },
+  "About": {
+    "eyebrow": "Tentang {company}",
+    "title": "Gerbang Tepercaya Menuju Hasil Bumi Jawa Timur Selatan",
+    "description": "Berkantor pusat di Jawa Timur, Indonesia, <strong>{company}</strong> beroperasi sebagai entitas manajemen ekspor dan perdagangan terpadu. Kami berfokus pada tiga sektor utama: <strong>Hasil Laut & Sumber Daya Maritim</strong>, <strong>Hasil Perkebunan Dataran Tinggi</strong>, dan <strong>Hortikultura Segar</strong>.",
+    "traceability": {
+      "title": "Ketertelusuran Penuh",
+      "text": "Dari tempat pendaratan ikan pesisir hingga kebun di pegunungan."
+    },
+    "quality": {
+      "title": "Jaminan Mutu Ketat",
+      "text": "Kepatuhan fitosanitari & HACCP terjamin."
+    },
+    "quote": "Menjaga kualitas terbaik dari tanah dan laut Jawa Selatan yang kaya, langsung ke pelabuhan dunia.",
+    "imageAlt": "Kontainer pengiriman di pelabuhan"
+  },
+  "Origins": {
+    "eyebrow": "Jaringan Sumber Pasokan",
+    "title": "Koridor Pasokan Jawa Timur Selatan",
+    "subtitle": "Pusat pasokan strategis di sepanjang pesisir Samudra Hindia dan pegunungan vulkanik."
+  },
+  "Planner": {
+    "eyebrow": "Alat Perencanaan Logistik",
+    "title": "Perencana Muatan Kontainer",
+    "description": "Merencanakan pengiriman dari Pelabuhan Surabaya (Tanjung Perak / Bandara Juanda)? Masukkan target berat untuk melihat konfigurasi kontainer yang disarankan.",
+    "routeTitle": "Rute Darat:",
+    "route": "Asal Selatan → Tol Trans-Jawa / JLS → Pelabuhan Tanjung Perak (perkiraan waktu tempuh 3-5 jam)",
+    "sectorLabel": "Pilih Sektor Komoditas",
+    "volumeLabel": "Perkiraan Volume (Metrik Ton)",
+    "sectors": {
+      "frozen": "Hasil Laut Beku (Tuna / Udang) [-25°C]",
+      "chilled": "Buah Segar / Pisang [+13°C]",
+      "ambient": "Biji Kering / Kopi / Gula [Suhu Ruang]"
+    },
+    "resultTitle": "Kontainer yang Disarankan",
+    "temperatureLabel": "Pengaturan Suhu",
+    "leadLabel": "Perkiraan Waktu Persiapan",
+    "containers": {
+      "reefer-20ft": "Kontainer Reefer 20ft",
+      "reefer-40ft": "Kontainer Reefer 40ft High-Cube",
+      "dry-20ft": "Kontainer Dry 20ft (FCL)",
+      "dry-40ft": "Kontainer Dry 40ft (FCL)"
+    },
+    "containerLine": "{count}× {name}",
+    "temperature": {
+      "frozen": "-18°C hingga -25°C (Beku Terkontrol)",
+      "chilled": "+13°C (Ventilasi Buah Segar)",
+      "ambient": "Suhu Ruang / Penyimpanan Kering"
+    },
+    "lead": {
+      "frozen": "3-5 Hari Transit Pelabuhan + Bea Cukai",
+      "chilled": "2-4 Hari Pengiriman Langsung",
+      "ambient": "3-7 Hari Pengemasan & Muat Pelabuhan"
+    },
+    "invalid": "Masukkan volume antara 1 dan {max, number} MT.",
+    "disclaimer": "Hanya perkiraan. Muatan sebenarnya bergantung pada kemasan dan kepadatan produk. Konfigurasi akhir dikonfirmasi dalam penawaran.",
+    "cta": "Minta penawaran untuk pengiriman ini"
+  },
+  "Certifications": {
+    "eyebrow": "Standar Internasional",
+    "title": "Sertifikasi & Jaminan Mutu",
+    "subtitle": "Kami mematuhi standar global keamanan pangan, karantina, dan panen berkelanjutan.",
+    "groups": {
+      "certifications": "Standar & sertifikasi",
+      "documents": "Dokumen ekspor per pengiriman"
+    }
+  },
+  "Footer": {
+    "description": "Eksportir terpadu komoditas pertanian, perkebunan, dan perikanan dari Jawa Timur bagian selatan, Indonesia.",
+    "nib": "NIB: {nib}",
+    "kbli": "KBLI: {kbli}",
+    "commoditiesTitle": "Komoditas Utama",
+    "originsTitle": "Asal Ekspor",
+    "officeTitle": "Kantor Pusat",
+    "copyright": "© {year} {company} ({tagline}). Hak cipta dilindungi."
+  }
+}
